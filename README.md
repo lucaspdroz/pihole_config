@@ -20,8 +20,9 @@ DNS and FTL offline
 
 Other Projetcs I've used:
 
-[https://raw.githubusercontent.com/vincentkenny01/spotblock/master/spotify](https://raw.githubusercontent.com/vincentkenny01/spotblock/master/spotify)
+[spotblock-spotify from vincentkenny01](https://raw.githubusercontent.com/vincentkenny01/spotblock/master/spotify)
 
-[https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)
+[whitelist-domains-whitelist from anudeepND](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)
 
-[https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt](https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt)
+[fanboy-annoyance from easylist](https://easylist.to/easylist/fanboy-annoyance.txt)
+[ultimate-ad-filter from adavoid](https://filters.adavoid.org/ultimate-ad-filter.txt)
