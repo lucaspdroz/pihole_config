@@ -34,6 +34,6 @@ Other Projetcs I've used:
 
 # How to add this lists into your Pihole
 
-- Group Management >  Adlists > address (input the some URL above here 😉)
+- Group Management >  Adlists > address (input some of the URL's above in here 😉)
 
 ![](image.jpg)
