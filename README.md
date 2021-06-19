@@ -37,3 +37,12 @@ Other Projetcs I've used:
 - Group Management >  Adlists > address (input some of the URL's above in here 😉)
 
 ![](image.jpg)
+
+
+PS: If by mistake as I made for the first time and you need to clear your whitelist or blacklist database use ([doc](https://docs.pi-hole.net/database/gravity/)):
+
+To Whitelist
+> sudo sqlite3 /etc/pihole/gravity.db "delete from domainlist where type=0;"
+
+To blacklist
+> sudo sqlite3 /etc/pihole/gravity.db "delete from domainlist where type=1;"
