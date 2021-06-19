@@ -2,21 +2,25 @@
 
 Pihole Configuration used at my home server
 
-`git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole`
-`cd "Pi-hole/automated install/"`
-`sudo bash basic-install.sh`
+```
+git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
+cd "Pi-hole/automated install/"
+sudo bash basic-install.sh
+```
 
 ### My Issues (fast aproach)
 
 Change admin password
-`pihole -a -p [password]`
+> `pihole -a -p [password]`
 
-user blocked (Db block)
-`sudo adduser www-data pihole`
-`sudo systemctl restart apache2`
+User blocked (Db block)
+```
+sudo adduser www-data pihole
+sudo systemctl restart apache2
+```
 
 DNS and FTL offline
-`pihole checkout master`
+> `pihole checkout master`
 
 Other Projetcs I've used:
 
@@ -29,5 +33,7 @@ Other Projetcs I've used:
 [ultimate-ad-filter from adavoid](https://filters.adavoid.org/ultimate-ad-filter.txt)
 
 # How to add this lists into your Pihole
+
 - Group Management >  Adlists > address (input the some URL above here 😉)
+
 ![](image.jpg)
