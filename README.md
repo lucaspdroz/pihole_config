@@ -25,4 +25,9 @@ Other Projetcs I've used:
 [whitelist-domains-whitelist from anudeepND](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)
 
 [fanboy-annoyance from easylist](https://easylist.to/easylist/fanboy-annoyance.txt)
+
 [ultimate-ad-filter from adavoid](https://filters.adavoid.org/ultimate-ad-filter.txt)
+
+# How to add this lists into your Pihole
+- Group Management >  Adlists > address (input the some URL above here 😉)
+![](image.jpg)
