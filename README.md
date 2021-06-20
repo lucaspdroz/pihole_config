@@ -38,8 +38,9 @@ Other Projetcs I've used:
 
 ![](image.jpg)
 
+PS: If by mistake, as I did the first time, and you need to clear your whitelist or blacklist, use ([doc](https://docs.pi-hole.net/database/gravity/)):
 
-PS: If by mistake as I made for the first time and you need to clear your whitelist or blacklist database use ([doc](https://docs.pi-hole.net/database/gravity/)):
+#### ⚠ You will not be able to undo, back up first ⚠
 
 To Whitelist
 > sudo sqlite3 /etc/pihole/gravity.db "delete from domainlist where type=0;"
